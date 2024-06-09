@@ -10,7 +10,7 @@ The codes and excel sheets that are used for organising of the dataset can be fo
 
 ## Experiments
 
-The notebooks where the ML models are run are in the following files. These correspond the each experiment as described in the report / image below.
+The notebooks where the ML models are run are in the following files. These correspond with each experiment as described in the report / image below.
 - BT5151_Experiment_1.ipynb
 - BT5151_Experiment_2.ipynb
 - BT5151_Experiment_3.ipynb
