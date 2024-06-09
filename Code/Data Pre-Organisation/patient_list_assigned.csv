@@ -1,0 +1,348 @@
+id,class,assign
+1,Non,Train
+2,Non,Train
+4,Non,Train
+5,Non,Test
+6,Non,Train
+7,Non,Train
+9,Non,Train
+10,Non,Validation
+11,Non,Validation
+12,Non,Train
+13,Non,Test
+14,Non,Train
+17,Non,Validation
+18,Non,Train
+19,Non,Test
+20,Non,Validation
+25,Non,Train
+26,Non,Train
+27,Non,Train
+29,Non,Validation
+30,Non,Train
+32,Non,Train
+33,Non,Validation
+34,Non,Validation
+37,Non,Train
+38,Non,Validation
+40,Non,Train
+43,Non,Train
+44,Non,Train
+45,Non,Validation
+47,Non,Test
+49,Non,Train
+50,Non,Train
+51,Non,Train
+54,Non,Validation
+55,Non,Train
+57,Non,Train
+58,Non,Test
+59,Non,Validation
+61,Non,Train
+62,Non,Test
+63,Non,Train
+64,Non,Train
+65,Non,Validation
+68,Non,Validation
+69,Non,Train
+70,Non,Test
+71,Non,Train
+72,Non,Train
+74,Non,Train
+75,Non,Validation
+76,Non,Train
+77,Non,Validation
+78,Non,Validation
+79,Non,Test
+80,Non,Train
+81,Non,Validation
+83,Non,Train
+85,Non,Train
+86,Non,Validation
+87,Non,Train
+88,Non,Validation
+90,Non,Test
+91,Non,Train
+92,Non,Train
+95,Non,Train
+96,Non,Train
+97,Non,Train
+99,Non,Train
+101,Non,Train
+102,Non,Validation
+103,Non,Validation
+104,Non,Train
+105,Non,Train
+106,Non,Train
+107,Non,Train
+108,Non,Train
+109,Non,Test
+110,Non,Train
+111,Non,Train
+112,Non,Train
+113,Non,Train
+114,Non,Test
+116,Non,Validation
+117,Non,Train
+119,Non,Train
+121,Non,Train
+125,Non,Train
+126,Non,Train
+127,Non,Train
+129,Non,Validation
+130,Non,Train
+131,Non,Test
+132,Non,Train
+133,Non,Test
+135,Non,Validation
+136,Non,Train
+138,Non,Train
+139,Non,Validation
+140,Non,Train
+141,Non,Validation
+144,Non,Train
+145,Non,Train
+146,Non,Train
+147,Non,Train
+148,Non,Validation
+150,Non,Train
+151,Non,Train
+152,Non,Train
+153,Non,Train
+156,Non,Train
+157,Non,Train
+159,Non,Train
+160,Non,Train
+162,Non,Train
+163,Non,Validation
+165,Non,Validation
+167,Non,Validation
+168,Non,Train
+169,Non,Train
+170,Non,Train
+173,Non,Train
+174,Non,Train
+176,Non,Train
+177,Non,Train
+178,Non,Validation
+180,Non,Train
+181,Non,Train
+182,Non,Test
+183,Non,Train
+186,Non,Train
+188,Non,Validation
+189,Non,Train
+190,Non,Train
+191,Non,Train
+192,Non,Train
+193,Non,Train
+195,Non,Train
+197,Non,Validation
+198,Non,Train
+199,Non,Train
+200,Non,Train
+201,Non,Validation
+202,Non,Train
+203,Non,Train
+204,Non,Train
+206,Non,Train
+207,Non,Train
+208,Non,Train
+209,Non,Test
+211,Non,Train
+212,Non,Train
+213,Non,Train
+214,Non,Train
+216,Non,Train
+218,Non,Train
+220,Non,Test
+221,Non,Train
+222,Non,Validation
+224,Non,Validation
+227,Non,Train
+228,Non,Train
+229,Non,Validation
+230,Non,Train
+231,Non,Validation
+232,Non,Train
+234,Non,Validation
+235,Non,Train
+236,Non,Train
+237,Non,Train
+239,Non,Train
+241,Non,Test
+244,Non,Train
+246,Non,Validation
+249,Non,Test
+250,Non,Train
+253,Non,Train
+254,Non,Validation
+255,Non,Train
+256,Non,Train
+258,Non,Train
+259,Non,Validation
+260,Non,Train
+261,Non,Train
+262,Non,Train
+264,Non,Train
+265,Non,Train
+266,Non,Validation
+270,Non,Validation
+271,Non,Train
+274,Non,Train
+275,Non,Train
+277,Non,Train
+279,Non,Train
+280,Non,Validation
+281,Non,Train
+282,Non,Train
+283,Non,Train
+284,Non,Train
+285,Non,Train
+289,Non,Train
+292,Non,Validation
+293,Non,Train
+294,Non,Train
+295,Non,Train
+296,Non,Train
+299,Non,Train
+301,Non,Validation
+302,Non,Train
+303,Non,Train
+305,Non,Train
+309,Non,Train
+310,Non,Train
+311,Non,Train
+313,Non,Train
+314,Non,Train
+317,Non,Train
+318,Non,Train
+319,Non,Test
+321,Non,Train
+322,Non,Train
+323,Non,Test
+325,Non,Train
+326,Non,Train
+327,Non,Train
+328,Non,Validation
+330,Non,Train
+331,Non,Validation
+332,Non,Train
+333,Non,Train
+336,Non,Train
+337,Non,Train
+338,Non,Test
+340,Non,Train
+341,Non,Train
+342,Non,Validation
+343,Non,Validation
+344,Non,Train
+345,Non,Train
+346,Non,Train
+348,Non,Train
+349,Non,Train
+350,Non,Test
+353,Non,Train
+354,Non,Test
+355,Non,Train
+356,Non,Test
+357,Non,Train
+358,Non,Train
+359,Non,Train
+361,Non,Train
+363,Non,Train
+365,Non,Validation
+366,Non,Train
+367,Non,Train
+368,Non,Validation
+369,Non,Validation
+370,Non,Validation
+371,Non,Train
+372,Non,Train
+375,Non,Train
+376,Non,Train
+377,Non,Validation
+378,Non,Train
+379,Non,Test
+381,Non,Train
+3,Very Mild,Train
+15,Very Mild,Train
+16,Very Mild,Validation
+21,Very Mild,Validation
+22,Very Mild,Test
+23,Very Mild,Validation
+39,Very Mild,Train
+41,Very Mild,Train
+42,Very Mild,Validation
+46,Very Mild,Train
+60,Very Mild,Train
+66,Very Mild,Train
+82,Very Mild,Train
+84,Very Mild,Train
+94,Very Mild,Train
+98,Very Mild,Train
+115,Very Mild,Train
+120,Very Mild,Train
+123,Very Mild,Validation
+124,Very Mild,Validation
+142,Very Mild,Train
+143,Very Mild,Test
+155,Very Mild,Train
+158,Very Mild,Train
+161,Very Mild,Train
+164,Very Mild,Validation
+166,Very Mild,Validation
+179,Very Mild,Train
+205,Very Mild,Validation
+210,Very Mild,Test
+217,Very Mild,Train
+226,Very Mild,Train
+233,Very Mild,Train
+238,Very Mild,Train
+240,Very Mild,Train
+243,Very Mild,Validation
+247,Very Mild,Train
+263,Very Mild,Train
+267,Very Mild,Validation
+272,Very Mild,Test
+273,Very Mild,Train
+286,Very Mild,Train
+287,Very Mild,Test
+288,Very Mild,Train
+290,Very Mild,Train
+298,Very Mild,Train
+300,Very Mild,Validation
+304,Very Mild,Train
+307,Very Mild,Validation
+312,Very Mild,Train
+315,Very Mild,Train
+329,Very Mild,Train
+335,Very Mild,Train
+339,Very Mild,Train
+352,Very Mild,Train
+362,Very Mild,Train
+374,Very Mild,Train
+380,Very Mild,Train
+28,Mild-Moderate,Train
+31,Mild-Moderate,Test
+35,Mild-Moderate,Train
+52,Mild-Moderate,Train
+53,Mild-Moderate,Train
+56,Mild-Moderate,Train
+67,Mild-Moderate,Validation
+73,Mild-Moderate,Validation
+122,Mild-Moderate,Train
+134,Mild-Moderate,Test
+137,Mild-Moderate,Train
+184,Mild-Moderate,Train
+185,Mild-Moderate,Train
+223,Mild-Moderate,Train
+268,Mild-Moderate,Validation
+269,Mild-Moderate,Train
+278,Mild-Moderate,Train
+291,Mild-Moderate,Train
+316,Mild-Moderate,Validation
+373,Mild-Moderate,Train
+382,Mild-Moderate,Train
+308,Mild-Moderate,Validation
+351,Mild-Moderate,Train
