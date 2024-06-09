@@ -10,7 +10,7 @@ Train a deep learning classifier to analyse MRI brain scans, assisting healthcar
 - Curated version of the OASIS Alzhemier's Dataset, which consists of 22265 brain MRI images obtained from 347 unique patients 
 - Original Full Dataset: [Link](https://www.kaggle.com/datasets/ninadaithal/imagesoasis)
 
-### Repository
+### Repository:
 - The full code experiments that were run can be found in the "Code" folder.
 - A shortened jupyter notebook summarising one of the code experiments (involving multi-class classification using Densenet121) was also uploaded on [Kaggle](https://www.kaggle.com/code/adisongoh/alzhemier-classification-with-pretrained-densenet).
-- Feel free to read the PDF report for more in-depth information on the project.
+- Feel free to read the PDF report for in-depth information on the project.
