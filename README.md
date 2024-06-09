@@ -7,8 +7,8 @@ Dementia, a debilitating condition, progressively impairs an individual’s work
 Train a deep learning classifier to analyse MRI brain scans, assisting healthcare professionals in the diagnosis of Alzheimer's disease. Specifically, the model will be based on transfer learning of the pre-trained Densenet121 & Inception-v3 model.
 
 ### Dataset: 
-Curated version of the OASIS Alzhemier's Dataset, which consists of 22265 brain MRI images obtained from 347 unique patients 
-Original Full Dataset: [Link](https://www.kaggle.com/datasets/ninadaithal/imagesoasis)
+- Curated version of the OASIS Alzhemier's Dataset, which consists of 22265 brain MRI images obtained from 347 unique patients 
+- Original Full Dataset: [Link](https://www.kaggle.com/datasets/ninadaithal/imagesoasis)
 
 ### Repository
 - The full code experiments that were run can be found in the "Code" folder.
