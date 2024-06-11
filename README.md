@@ -13,4 +13,4 @@ Train a deep learning classifier to analyse MRI brain scans, assisting healthcar
 ### Repository:
 - The full code experiments that were run can be found in the "Code" folder.
 - A shortened jupyter notebook summarising one of the code experiments (involving multi-class classification using Densenet121) was also uploaded on [Kaggle](https://www.kaggle.com/code/adisongoh/alzhemier-classification-with-pretrained-densenet).
-- Feel free to read the PDF report for in-depth information on the project.
+- The PDF report contains more in-depth details on the project.
